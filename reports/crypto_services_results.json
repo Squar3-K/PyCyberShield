@@ -1,0 +1,26 @@
+{
+  "encrypted_files": [
+    {
+      "original": "reports/brute_force_attacks.csv",
+      "encrypted": "reports/brute_force_attacks.csv.enc",
+      "timestamp": "2025-08-29T13:34:07.757033"
+    },
+    {
+      "original": "reports/failed_logins_summary.csv",
+      "encrypted": "reports/failed_logins_summary.csv.enc",
+      "timestamp": "2025-08-29T13:34:07.758807"
+    },
+    {
+      "original": "reports/suspicious_entries.csv",
+      "encrypted": "reports/suspicious_entries.csv.enc",
+      "timestamp": "2025-08-29T13:34:07.761098"
+    },
+    {
+      "original": "reports/test_security_events.log",
+      "encrypted": "reports/test_security_events.log.enc",
+      "timestamp": "2025-08-29T13:34:07.763544"
+    }
+  ],
+  "key_file": "reports/encryption_key.key",
+  "encryption_timestamp": "2025-08-29T13:34:07.765925"
+}
