@@ -83,10 +83,10 @@ Open a Pull Request.
    Report issues or suggest features via GitHub Issues.
 Credits
    Developed for COP 400 - Cybersecurity Foundational Skills:
-Alex Kamwende
-Killo Philip
-Harrison Mwambui
-Blessing Mabonga
+    Alex Kamwende
+    Killo Philip
+    Harrison Mwambui
+    Blessing Mabonga
 
    Special thanks to open-source libraries: psutil, python-nmap, scapy, cryptography, reportlab, pandas, matplotlib.
 License
