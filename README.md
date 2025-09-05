@@ -82,8 +82,7 @@ Open a Pull Request.
 
    Report issues or suggest features via GitHub Issues.
 Credits
-   Developed by Group 6 for COP 400 - Cybersecurity Foundational Skills:
-
+   Developed for COP 400 - Cybersecurity Foundational Skills:
 Alex Kamwende
 Killo Philip
 Harrison Mwambui
@@ -92,5 +91,3 @@ Blessing Mabonga
    Special thanks to open-source libraries: psutil, python-nmap, scapy, cryptography, reportlab, pandas, matplotlib.
 License
    This project is licensed under the MIT License - see the LICENSE file for details.
-
-   For questions, contact the contributors or open an issue.
