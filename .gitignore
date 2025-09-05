@@ -1,0 +1,22 @@
+# Python
+   __pycache__/
+   *.pyc
+   *.pyo
+   *.pyd
+   .Python
+   env/
+   venv/
+   *.egg-info/
+
+   # PyCyberShield generated files
+   reports/
+   *.log
+   *.enc
+   *.zip
+
+   # IDE and OS files
+   .idea/
+   *.DS_Store
+
+   # Temporary files
+   security files/
