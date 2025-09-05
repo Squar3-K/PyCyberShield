@@ -1,0 +1,7 @@
+psutil
+python-nmap
+scapy
+cryptography
+reportlab
+pandas
+matplotlib
